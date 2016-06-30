@@ -1,0 +1,390 @@
+.vulpes .nav > li > a {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.vostros .label-above,
+.vostros .field-label {
+    font-weight: lighter;
+}
+#menu-1354 .menu,
+#menu-1339 .menu {
+    display: none;
+}
+.menu-princ li#menu-947 div#menu-1347.bigger-last {
+    margin-top: 0
+}
+@media(max-width:768px) {
+    .flex-direction-nav a {
+        top: 45px;
+    }
+    .not-front .elo .field-name-title {
+        margin-top: 25px;
+    }
+}
+.maximos.maximos-50 .contenedores {
+    right: 20px;
+}
+a.rojo {
+    background: #b01e31 none repeat scroll 0 0;
+    display: inline-block;
+    color: white;
+    font-size: 13px;
+    opacity: 1;
+    font-weight: 700;
+    padding: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.gang .webform-component-markup {
+    clear: left;
+    padding: 0 15px;
+}
+#webform-client-form-477 {
+    margin-top: 51px;
+}
+#webform-client-form-477 button {
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.page-node-477 #block-views-nosotros-block {
+    display: none
+}
+.menues,
+h1,
+h2 {
+    font-family: "camingodos-web", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+.map-canvas {
+    width: 100% !important;
+}
+.field-name-mapa-iteractivo .modal-dialog {
+    width: 100%;
+    max-width: 1200px;
+}
+.modal-dialog.mdd {
+    width: 80%;
+    max-width: 960px;
+}
+.view-custon-sedes .video.linkea,
+.view-ubicanos .video.linkea {
+    display: none;
+}
+.view-custon-sedes .views-row .contextual-links-region,
+.view-ubicanos .views-row .contextual-links-region {
+    position: relative;
+}
+.page-taxonomy-term-3 .video.linkea {
+    display: block !important;
+}
+.followos {
+    float: right;
+    margin-left: 5px;
+    position: relative;
+    right: auto;
+    top: auto;
+}
+.bean-siguenos .field-name-field-redes-sociales .field-item a {
+    height: 40px;
+    background-color: transparent;
+}
+.menu-princ {
+    margin-right: -15px;
+}
+.menu-princ li#menu-1211 .dropdown-menu {
+    left: auto;
+    right: 0;
+}
+#label-945::before {
+    content: "Carreras";
+}
+@media only screen and (max-width: 1200px) and (min-width: 768px) {
+    .menu-princ .navbar-nav > li > a {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+    .menu-princ .navbar-nav > li > a {
+        font-size: 10px;
+    }
+    #label-945::before {
+        display: none;
+    }
+}
+@media only screen and (max-width: 2000px) and (min-width: 1001px) {
+    .view-ubicanos .field-name-field-image {
+        text-align: center;
+    }
+}
+.sede .block-content .tab-content {
+    border: 1px solid #cacaca;
+    overflow: hidden;
+    padding: 20px 15px;
+}
+.sede .block-content .nav-tabs {
+    border: 0;
+}
+.sede .block-content .nav-tabs li {
+    width: 24.5%;
+}
+.sede .block-content .nav-tabs li a {
+    font-family: "camingodos-web", Helvetica, Arial, sans-serif;
+    line-height: 1;
+    border: 1px solid #cacaca;
+    border-left: 0;
+    background: #eee;
+    margin: 0;
+    position: relative;
+    border-bottom: 0;
+    min-height: 66px;
+}
+.sede .block-content .nav-tabs li.active a {
+    background: white;
+    border-bottom: 0
+}
+.sede .block-content .nav-tabs li:first-child a {
+    border-left: 1px solid #cacaca;
+}
+.sede .block-content .nav-tabs li:first-child a {
+    color: #0070ba;
+}
+.sede .block-content .nav-tabs li:nth-child(2) a {
+    color: #00a69c;
+}
+.sede .block-content .nav-tabs li:nth-child(3) a {
+    color: #f9ac3e;
+}
+#block-block-24 {
+    margin-bottom: 40px;
+}
+#block-block-23 h2.block-title {
+    margin-bottom: 25px;
+    margin-top: 0;
+}
+#block-block-24 h2.block-title {
+    margin-bottom: 25px;
+}
+.sede .block-content .nav-tabs li.active a::before {
+    background: white none repeat scroll 0 0;
+    bottom: -1px;
+    content: "";
+    display: block;
+    height: 1px;
+    left: 0;
+    position: absolute;
+    right: 0;
+    width: 100%;
+}
+.sede .testis {
+    padding: 0;
+}
+.sede .presentados {
+    padding: 0;
+}
+#menu-1211 li .mainmenu-nolink.bigger-last a:not(.active) {
+    color: #333 !important;
+}
+#menu-1211 li .mainmenu-nolink.bigger-last a.active,
+.front #menu-1211 li .mainmenu-nolink.bigger-last#menu-1226 a {
+    color: #b01e31 !important;
+}
+@media(max-width:991px) {
+    .sede .presenta01 {
+        border-left: 1px solid #ddddef;
+        margin-bottom: 25px;
+    }
+    .sede .block-content .nav-tabs li {
+        width: 100%;
+        margin-top: 1px;
+    }
+    .sede .block-content .nav-tabs li a {
+        border-left: 1px solid #cacaca;
+    }
+    .sede .block-content .nav-tabs li.active a:before {
+        display: none;
+    }
+    .sede #block-system-main h3 {
+        margin-top: 25px;
+    }
+}
+#block-block-3 p a {
+    background-image: url("../../themes/bootstrap_barrio/css/i/correo.png")!important;
+}
+.bean-siguenos .field-name-field-redes-sociales .field-item a[href*="face"] {
+    background-image: url("../../themes/bootstrap_barrio/css/i/fb.png")!important;
+}
+.bean-siguenos .field-name-field-redes-sociales .field-item a[href*="tube"] {
+    background-image: url("../../themes/bootstrap_barrio/css/i/yt.png")!important;
+}
+.compartirs > div > .field-items {
+    background-image: url("../../themes/bootstrap_barrio/css/i/faceb.png")!important;
+}
+.compartirs > div[class*="tw"] > .field-items {
+    background-image: url("../../themes/bootstrap_barrio/css/i/twit.png")!important;
+}
+.compartirs > div[class*="gp"] > .field-items {
+    background-image: url("../../themes/bootstrap_barrio/css/i/goog.png")!important;
+}
+.disabled .item-0 {
+    width: 33%;
+}
+@media(max-width:768px) {
+    .disabled .item-0 {
+        width: 100%;
+    }
+}
+.webform-component-file {
+    width: 100%;
+}
+.webform-component-file input {
+    float: left;
+    width: 50%;
+}
+.aptu button.webform-submit {
+    float: left;
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.aptu h2.block-title {
+    color: #00baf2;
+    font-family: helvetica;
+    font-size: 27px;
+    line-height: 1.25;
+}
+.page-node-526 #content-inner .col-lg-10 {
+    width: 100%!important;
+    margin-left: 0!important
+}
+.banx {
+    padding: 0 15px 15px;
+}
+.banx h3 a {
+    color: white;
+    text-decoration: none !important;
+}
+.banx .rellenos {
+    padding-top: 20px!important;
+}
+.banx h2 {
+    font-size: 20px!important;
+    margin-bottom: 5px!important;
+}
+.banx h2 a {
+    color: white!important;
+    text-decoration: none !important;
+}
+.banx h2:last-child a {
+    font-size: 13px!important
+}
+#block-system-main table {
+    width: 100% !important;
+}
+#block-system-main table tr td {
+    width: 15%;
+}
+#block-system-main table tr td:first-child {
+    width: 40%;
+}
+#block-system-main table tr td p {
+    line-height: 1;
+    margin: 0;
+}
+#block-system-main table tr td img {
+    margin: 5px auto;
+    width: 30px;
+}
+#block-system-main table tr td {
+    padding: 5px;
+}
+#block-system-main table.table15 tr td:first-child {
+    width: 15%;
+}
+.footer {
+    margin-top: 40px
+}
+.localess {
+    padding: 0px;
+    top: -75px;
+}
+.localess h2.block-title {
+    margin-top: 0px;
+    font-size: 17px;
+    padding: 0px;
+    margin-bottom: 16px;
+}
+.sedal {
+    display: table;
+}
+.sedal > div {
+    display: table-cell;
+    float: none;
+    padding-left: 0;
+    vertical-align: middle;
+}
+.localess p {
+    float: left;
+    margin: 0;
+    font-family: "camingodos-web", Helvetica, Arial, sans-serif;
+    min-height: 0;
+    padding-right: 0;
+    width: 100%;
+}
+.localess p a {
+    color: #666
+}
+.localess p strong {
+    text-transform: none;
+    margin-bottom: 0;
+    color: #666
+}
+.datass {
+    border: 0!important
+}
+@media(max-width:991px) {
+    .localess {
+        padding: 0px;
+        top: 0;
+        width: 100%;
+    }
+    .sedal {
+        display: block;
+    }
+    .sedal > div {
+        display: block;
+        float: none;
+        padding-left: 0;
+        width: 100%;
+        vertical-align: middle;
+    }
+    .localess p {
+        float: none;
+        margin: 0;
+        min-height: 0;
+        padding-right: 0;
+        width: 100%;
+    }
+    #social{
+        display: none;
+    }
+}
+.node-type-carrera-curso-omi .presentacion {
+    margin-top: 46px
+}
+.node-type-servicios-universitarios .serv-btn {
+    margin-top: 46px;
+    margin-bottom: 46px;
+    padding: 20px 15px;
+    color: white;
+    background-size: cover;
+}
+.node-type-servicios-universitarios .serv-btn {
+    background-image: url("../fondo_banner_charla_pre_utp_7.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+}
+.node-type-servicios-universitarios .serv-btn a {
+    color: #FFF;
+}
